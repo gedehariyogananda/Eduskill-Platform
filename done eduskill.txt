@@ -1,0 +1,5 @@
+- saat get spesifik course, if dia ada data payment gateway masih peding maka tampil paynow, jika udah sukses maka hilang (done)
+
+- logic2 dia udah pay status succes dah gabisa pay lagi (already done)
+- pengecekan harus amount nya sama dengan request->amount (mencegah inspect harga)
+
